@@ -1,3 +1,15 @@
 This video is for explaining how github works
 adding few changes
 new changes
+
+
+1:create application
+2:upload application in main
+3: create branch for me - SRI from main
+4: create branch for my friend f1- branch2 from main
+5: create branch for my friend f2- branch3 from  main
+
+f2 gives a=100
+Sri gives b=200
+
+git merge combines both changes into single application

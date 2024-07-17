@@ -13,3 +13,4 @@ f2 gives a=100
 Sri gives b=200
 
 git merge combines both changes into single application
+adding further changes
